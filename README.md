@@ -1,6 +1,6 @@
 # Simple-Forecaster-Using-NeuralProphet
 PAFTA! Forecasting sales and economic demand for businesses with a time series approach using NeuralProphet
-![repository-open-graph-template copy](https://user-images.githubusercontent.com/76481805/201037572-5486f086-4d4c-46da-a33b-0974a625c6c5.png)
+![repository-open-graph-template copy - Copy](https://user-images.githubusercontent.com/76481805/201037685-1d3761c7-e623-482b-9f68-fb112c66074e.png)
 
 
 Environment:
