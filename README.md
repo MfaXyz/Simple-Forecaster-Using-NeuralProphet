@@ -12,3 +12,4 @@ In forecasting time series, scientific forecasts should be made based on histori
 ## How It Works?
 Pip install requirements then run this:
 > streamlit run interface.py
+Also you can use examples of TestData folder to know how to use this project.
